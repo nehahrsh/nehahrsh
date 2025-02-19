@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey there, I'm Neha Haresh!
 
-<!--
-**nehahrsh/nehahrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **product and technology enthusiast**, passionate about creating **impactful solutions** at the intersection of **business, technology, and strategy**. I thrive in **fast-paced, dynamic environments**, whether it's building **products, conducting research, or optimizing user experiences**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+- 🎯 **Technical Project Manager** at **Planned Parenthood** | Leading a **full-stack project** to **enhance patient experience** through **automation & user-centric design**.
+- 🤖 **AI Policy & Governance Fellow** at **Berkeley AI Student Safety Initiative** | Researching **AI governance & risk assessment** in **finance automation & algorithmic decision-making**.
+- 🎮 **Tech Committee Member** at **Business Careers in Entertainment Club (BCEC)** | Working on **strategy & innovation** projects for **DoorDash & Hasbro**.
+- 💡 Passionate about **product strategy, AI ethics, and automation in finance & healthcare**.
+
+---
+
+## ✨ Highlighted Projects
+
+### 📦 **DoorDash Feature Innovation** (BCEC Tech Committee)
+- Conducting **user research & market analysis** to develop **Gen-Z-focused delivery features**.
+- Exploring **AI-driven personalization** & **subscription model optimizations** to increase engagement.
+
+### 🧸 **Hasbro Future of Play** (BCEC Tech Committee)
+- Researching **AI, AR/VR, & robotics trends** in the **toy & entertainment industry**.
+- Developing insights on **behavioral shifts, emerging tech, & parental concerns**.
+
+### 🏥 **Planned Parenthood Patient Experience Automation**  
+- Leading a **full-stack team** to enhance **patient journey efficiency** through **automated scheduling & personalized UX improvements**.
+- Leveraging **data-driven insights** to optimize **patient onboarding & engagement strategies**.
+
+---
+
+## 💻 Tech Stack  
+- **Languages:** Python, Java, JavaScript  
+- **Frameworks & Tools:** React, Node.js, Express, MongoDB  
+- **AI & Data:** TensorFlow, OpenAI, Scikit-Learn  
+- **Product & Strategy:** Figma, Tableau, Jira  
+
+---
+
+## 📬 Let's Connect!
+📧 **Email:** [your.email@example.com]  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐙 **GitHub:** [github.com/neha-haresh](https://github.com/neha-haresh)  
+
+---
