@@ -37,8 +37,8 @@ I'm a **product and technology enthusiast**, passionate about creating **impactf
 ---
 
 ## 📬 Let's Connect!
-📧 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [github.com/neha-haresh](https://github.com/neha-haresh)  
+📧 **Email:** [neha.haresh@berkeley.edu]  
+💼 **LinkedIn:** [linkedin.com/in/yneha-haresh](https://linkedin.com/in/neha-haresh)  
+🐙 **GitHub:** [github.com/nehahrsh](https://github.com/nehahrsh)  
 
 ---
