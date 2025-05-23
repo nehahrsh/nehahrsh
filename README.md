@@ -5,32 +5,28 @@ I'm a **product and technology enthusiast**, passionate about creating **impactf
 ---
 
 ## 🚀 What I'm Up To
-- 🎯 **Technical Project Manager** at **Planned Parenthood** | Leading a **full-stack project** to **enhance patient experience** through **automation & user-centric design**.
+- 🎯 **Technical Project Manager** at **Planned Parenthood** | Leading a **mobile development project** to **enhance patient experience** through **automation & user-centric design**.
 - 🤖 **AI Policy & Governance Fellow** at **Berkeley AI Student Safety Initiative** | Researching **AI governance & risk assessment** in **finance automation & algorithmic decision-making**.
-- 🎮 **Tech Committee Member** at **Business Careers in Entertainment Club (BCEC)** | Working on **strategy & innovation** projects for **DoorDash & Hasbro**.
+- 🎮 **Tech Committee Member** at **Business Careers in Entertainment Club (BCEC)** | Working on **strategy & innovation** projects for **LinkedIn & Hasbro**.
 - 💡 Passionate about **product strategy, AI ethics, and automation in finance & healthcare**.
 
 ---
 
 ## ✨ Highlighted Projects
 
-### 📦 **DoorDash Feature Innovation** (BCEC Tech Committee)
-- Conducting **user research & market analysis** to develop **Gen-Z-focused delivery features**.
-- Exploring **AI-driven personalization** & **subscription model optimizations** to increase engagement.
-
 ### 🧸 **Hasbro Future of Play** (BCEC Tech Committee)
 - Researching **AI, AR/VR, & robotics trends** in the **toy & entertainment industry**.
 - Developing insights on **behavioral shifts, emerging tech, & parental concerns**.
 
 ### 🏥 **Planned Parenthood Patient Experience Automation**  
-- Leading a **full-stack team** to enhance **patient journey efficiency** through **automated scheduling & personalized UX improvements**.
+- Leading a **Android dev team** to enhance **patient journey efficiency** through **automated scheduling & personalized UX improvements**.
 - Leveraging **data-driven insights** to optimize **patient onboarding & engagement strategies**.
 
 ---
 
 ## 💻 Tech Stack  
-- **Languages:** Python, Java, JavaScript  
-- **Frameworks & Tools:** React, Node.js, Express, MongoDB  
+- **Languages:** Python, Kotlin, Java, JavaScript  
+- **Frameworks & Tools:** Android Studio, React, Node.js, Express, MongoDB  
 - **AI & Data:** TensorFlow, OpenAI, Scikit-Learn  
 - **Product & Strategy:** Figma, Tableau, Jira  
 
@@ -38,7 +34,7 @@ I'm a **product and technology enthusiast**, passionate about creating **impactf
 
 ## 📬 Let's Connect!
 📧 **Email:** [neha.haresh@berkeley.edu]  
-💼 **LinkedIn:** [linkedin.com/in/yneha-haresh](https://linkedin.com/in/neha-haresh)  
+💼 **LinkedIn:** [linkedin.com/in/neha-haresh](https://linkedin.com/in/neha-haresh)  
 🐙 **GitHub:** [github.com/nehahrsh](https://github.com/nehahrsh)  
 
 ---
